@@ -7,3 +7,14 @@ C:\Documents and Settings\sirLongben\my documents\visual studio 2010\Projects\Co
 C:\Documents and Settings\sirLongben\my documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\sirLongben\my documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.exe
 C:\Documents and Settings\sirLongben\my documents\visual studio 2010\Projects\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\Contacts.exe
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\Contacts.pdb
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Debug\ContactsDB.sdf
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\Contacts.main.resources
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\Contacts.Properties.Resources.resources
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Debug\GenerateResource.write.1.tlog

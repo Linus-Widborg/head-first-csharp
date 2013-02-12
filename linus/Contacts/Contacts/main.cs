@@ -20,5 +20,20 @@ namespace Contacts
         {
             MessageBox.Show("OPC logo");
         }
+
+        private void peopleBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.peopleBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.contactsDBDataSet);
+
+        }
+
+        private void main_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'contactsDBDataSet.people' table. You can move, or remove it, as needed.
+            this.peopleTableAdapter.Fill(this.contactsDBDataSet.people);
+
+        }
     }
 }
