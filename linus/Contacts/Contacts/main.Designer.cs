@@ -373,7 +373,7 @@
             this.Controls.Add(this.peopleBindingNavigator);
             this.Controls.Add(this.OPCLogo);
             this.Name = "main";
-            this.Text = "main";
+            this.Text = "Objectville Paper Company Contacts";
             this.Load += new System.EventHandler(this.main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.OPCLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.contactsDBDataSet)).EndInit();

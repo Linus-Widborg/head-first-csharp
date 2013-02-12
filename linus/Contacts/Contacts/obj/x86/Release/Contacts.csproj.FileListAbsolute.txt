@@ -1,0 +1,15 @@
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\ContactsDB.sdf
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\Contacts.exe.config
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\Contacts.exe.manifest
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\Contacts.application
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\Contacts.exe
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\bin\Release\Contacts.pdb
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.main.resources
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.Properties.Resources.resources
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.exe.manifest
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.application
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.exe
+C:\Documents and Settings\sirLongben\My Documents\Visual Studio 2010\Projects\head-first-csharp\head-first-csharp\linus\Contacts\Contacts\obj\x86\Release\Contacts.pdb
