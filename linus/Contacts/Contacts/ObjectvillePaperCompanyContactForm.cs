@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Contacts
 {
-    public partial class main : Form
+    public partial class ObjectvillePaperCompanyContactForm : Form
     {
-        public main()
+        public ObjectvillePaperCompanyContactForm()
         {
             InitializeComponent();
         }

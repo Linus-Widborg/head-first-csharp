@@ -1,6 +1,6 @@
 ﻿namespace Contacts
 {
-    partial class main
+    partial class ObjectvillePaperCompanyContactForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(main));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ObjectvillePaperCompanyContactForm));
             System.Windows.Forms.Label contactIDLabel;
             System.Windows.Forms.Label nameLabel;
             System.Windows.Forms.Label companyLabel;
